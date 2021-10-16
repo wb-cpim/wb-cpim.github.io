@@ -1,4 +1,4 @@
-[
+var ConstituencySummary = [
   {
     "STATE NAME": "West Bengal",
     "AC NO.": 1,
